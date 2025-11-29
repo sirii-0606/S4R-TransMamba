@@ -1,0 +1,12 @@
+AF Human/
+boltz/cache/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pdb
+*.txt
+boltz_out/
+boltz_results_multimer/
+lightning_logs/
+wandb/
